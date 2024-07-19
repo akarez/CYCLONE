@@ -1,0 +1,10 @@
+../Core/Src/main.c:75:5:main	5
+../Core/Src/main.c:136:6:SystemClock_Config	4
+../Core/Src/main.c:175:13:MX_I2C1_Init	4
+../Core/Src/main.c:220:13:MX_TIM3_Init	4
+../Core/Src/main.c:262:13:MX_GPIO_Init	1
+../Core/Src/main.c:300:7:MCP9808_GetTemperature	2
+../Core/Src/main.c:331:6:turnFanOn	1
+../Core/Src/main.c:339:6:turnFanOff	1
+../Core/Src/main.c:348:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:365:6:Error_Handler	1
